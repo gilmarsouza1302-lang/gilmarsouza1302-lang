@@ -75,8 +75,8 @@ Busco minha primeira oportunidade como Desenvolvedor Full Stack Júnior, contrib
 
 ## 📫 Contato
 
-- 💼 LinkedIn: **(adicione o link depois)**
-- 📧 E-mail: **(adicione seu e-mail depois)**
+- 💼 LinkedIn: **(https://www.linkedin.com/in/gilmar-da-silva-souza-ba6626413/)**
+- 📧 E-mail: **(gilmar.souza1302@gmail.com)**
 
 ---
 
